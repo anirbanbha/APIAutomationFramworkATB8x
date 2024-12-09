@@ -1,2 +1,4 @@
-package com.thetestingacademy.utils;public class PropertyReader {
+package com.thetestingacademy.utils;
+
+public class PropertyReader {
 }

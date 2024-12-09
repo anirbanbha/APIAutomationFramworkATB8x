@@ -1,2 +1,4 @@
-package com.thetestingacademy.utils;public class CommonToAll {
+package com.thetestingacademy.utils;
+
+public class CommonToAll {
 }

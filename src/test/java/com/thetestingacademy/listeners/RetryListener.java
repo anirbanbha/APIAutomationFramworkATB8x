@@ -1,2 +1,4 @@
-package com.thetestingacademy.listeners;public class RetryListener {
+package com.thetestingacademy.listeners;
+
+public class RetryListener {
 }
